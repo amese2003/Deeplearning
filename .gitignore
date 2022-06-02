@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/Deeplearn/Debug
+/Deeplearn/.vs/Deeplearn/v16
+/Deeplearn/Deeplearn/Debug
+/.vs/Deeplearn/v16
