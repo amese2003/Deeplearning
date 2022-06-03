@@ -15,6 +15,9 @@
     <ClCompile Include="pch.cpp">
       <Filter>Core</Filter>
     </ClCompile>
+    <ClCompile Include="perceptron.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Types.h">
@@ -22,6 +25,9 @@
     </ClInclude>
     <ClInclude Include="pch.h">
       <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="perceptron.h">
+      <Filter>Main</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

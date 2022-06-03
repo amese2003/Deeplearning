@@ -1,6 +1,7 @@
 #pragma once
 
 #include "Types.h"
+#include "perceptron.h"
 
 #include <vector>
 #include <iostream>
